@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://waterhkzhong.github.io/atom.xml" rel="self"/>
-  <link href="http://waterhkzhong.github.io/"/>
-  <updated>2014-05-20T18:00:53+08:00</updated>
-  <id>http://waterhkzhong.github.io/</id>
+  <link href="http://waterhkzhong.github.io//github/atom.xml" rel="self"/>
+  <link href="http://waterhkzhong.github.io//github/"/>
+  <updated>2014-05-20T19:54:04+08:00</updated>
+  <id>http://waterhkzhong.github.io//github/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My Github Blog]]></title>
-    <link href="http://waterhkzhong.github.io/blog/2014/05/20/my-github-blog/"/>
+    <link href="http://waterhkzhong.github.io//github/blog/2014/05/20/my-github-blog/"/>
     <updated>2014-05-20T18:00:39+08:00</updated>
-    <id>http://waterhkzhong.github.io/blog/2014/05/20/my-github-blog</id>
+    <id>http://waterhkzhong.github.io//github/blog/2014/05/20/my-github-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
