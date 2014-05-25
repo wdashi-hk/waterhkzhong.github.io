@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://waterhkzhong.github.io//github/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Ios | My Octopress Blog]]></title>
+  <link href="http://waterhkzhong.github.io//github/blog/categories/ios/atom.xml" rel="self"/>
   <link href="http://waterhkzhong.github.io//github/"/>
   <updated>2014-05-26T01:50:02+08:00</updated>
   <id>http://waterhkzhong.github.io//github/</id>
@@ -20,15 +20,6 @@
     <id>http://waterhkzhong.github.io//github/blog/2014/05/21/ios-duplicate-symbolscuo-wu-de-jie-jue-fang-fa</id>
     <content type="html"><![CDATA[<p>   duplicate symbols 发生在两个静态库的时候，这时候不能通过修改代码的方式解决，貌似除了更新静态库就没有办法了。
    但是，这里有另一个比较棒的解决方法，不需要更换静态库。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My Github Blog]]></title>
-    <link href="http://waterhkzhong.github.io//github/blog/2014/05/20/my-github-blog/"/>
-    <updated>2014-05-20T18:00:39+08:00</updated>
-    <id>http://waterhkzhong.github.io//github/blog/2014/05/20/my-github-blog</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
